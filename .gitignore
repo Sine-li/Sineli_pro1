@@ -3,8 +3,8 @@
 
 # 修改过的文件，还是可以被检测到
 # 忽略index.css这个文件
-# .\index.css
+index.css
 
 # 忽略test文件夹
 # 被忽略的文件夹就彻底检测不到了
-test/
+# test/
